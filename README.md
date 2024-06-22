@@ -1,6 +1,7 @@
 # Privyfit
 
 PrivyFit: Privacy-Focused Social Fitness App
+
 Goal Setting:
 * Users set their target weight and deadline.
 * This information is encrypted and stored.
@@ -25,6 +26,7 @@ Goal Setting:
 6. Social Interaction:
    * Other users can view and interact with shared progress updates.
    * The community can offer support and encouragement based on these privacy-preserving updates.
+   * 
 Advantages of this approach:
 1. Privacy Protection: Progress can be shared without revealing specific weights.
 2. Motivation Maintenance: Being able to prove progress towards the goal can boost motivation.
