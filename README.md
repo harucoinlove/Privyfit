@@ -35,3 +35,9 @@ Advantages of this approach:
 5. Simplicity: The information shared is easy to understand and relate to for other users.
 6. Trustworthiness: Zero-knowledge proofs ensure that achievements are verifiable without compromising privacy.
 This project caters to individuals who want to share their diet progress and achievements on social media but are hesitant to disclose their actual weight. By utilizing zero-knowledge proofs, users can effectively communicate their success, maintain accountability, and celebrate achievements within a supportive community, all while keeping their sensitive information private.
+
+
+## Update ( 2024/06/25）
+
+![dataflowimage](https://github.com/harucoinlove/Privyfit/blob/main/assets/dataflow.png)
+
