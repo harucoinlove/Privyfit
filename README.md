@@ -39,5 +39,28 @@ This project caters to individuals who want to share their diet progress and ach
 
 ## Update ( 2024/06/25）
 
+User Interface:
+
+The user interacts with the Frontend, which includes features for authentication, weight recording, goal setting, progress sharing, and community interaction.
+
+![userinterface](https://github.com/harucoinlove/Privyfit/blob/main/assets/frontend.png)
+
+Backend:
+
+The Backend API handles user management, data management, zero-knowledge proof generation, and progress verification.
+It communicates with both the database for data storage and the Mina Protocol node for blockchain interactions.
+
+![backend](https://github.com/harucoinlove/Privyfit/blob/main/assets/backend.png)
+
+Mina Protocol Integration:
+
+The Mina Protocol node hosts the smart contract and performs zero-knowledge proof verification.
+
+![minaprotocol](https://github.com/harucoinlove/Privyfit/blob/main/assets/mina.png)
+Data Flow:
+
+User data and interactions flow from the Frontend to the Backend API.
+The Backend API processes this data, interacts with the database, and communicates with the Mina Protocol node as needed.
+
 ![dataflowimage](https://github.com/harucoinlove/Privyfit/blob/main/assets/dataflow.png)
 
